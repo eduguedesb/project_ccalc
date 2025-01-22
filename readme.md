@@ -3,16 +3,27 @@ Este script implementa uma calculadora científica utilizando o PyQt5 para a int
 
 # Funcionamento:
 Interface de usuário personalizada com botões para operações matemáticas básicas e avançadas, como:
-Funções trigonométricas (π, exp, log, ln)
-Operações de potência (x², x^y, 10^x)
-Operações aritméticas básicas (+, -, ×, ÷)
-Funções especiais como fatorial (n!), valor absoluto (|x|), inverso (1/x), raiz quadrada (²√x)
+<br>
+Funções trigonométricas (π, exp, log, ln);
+<br>
+Operações de potência (x², x^y, 10^x);
+<br>
+Operações aritméticas básicas (+, -, ×, ÷);
+<br>
+Funções especiais como fatorial (n!), valor absoluto (|x|), inverso (1/x), raiz quadrada (²√x);
+<br>
 Sistema de resultado dinâmico, exibido em um visor com alinhamento à direita.
+<br>
 Estilo de botões customizado, incluindo cores e efeitos visuais quando pressionados.
+<br>
 Implementação de funcionalidades avançadas como:
+<br>
 Cálculo de expressões matemáticas utilizando a função eval.
+<br>
 Manipulação de resultados com formatação específica para exibir números inteiros e decimais.
+<br>
 Tratamento de erros para garantir que a calculadora não falhe com entradas inválidas.
+<br>
 Essa calculadora oferece uma interface gráfica amigável e está pronta para realizar operações matemáticas complexas, tornando-a uma ferramenta útil para quem precisa de cálculos científicos e matemáticos no dia a dia.
 
 # Dependências:

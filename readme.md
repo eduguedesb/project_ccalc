@@ -27,7 +27,7 @@ Tratamento de erros para garantir que a calculadora não falhe com entradas inv�
 Essa calculadora oferece uma interface gráfica amigável e está pronta para realizar operações matemáticas complexas, tornando-a uma ferramenta útil para quem precisa de cálculos científicos e matemáticos no dia a dia.
 
 # Dependências:
-PyQt5: biblioteca de ferramentas multiplataforma para desenvolvimento de interfaces gráficas (GUI).
+Dependências listadas no arquivo "requirements.txt".
 
 # Como Usar:
 Execute o script com o seguinte comando: py ccalc.py ou python ccalc.py.
